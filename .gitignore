@@ -1,0 +1,23 @@
+# Operating-system and editor state
+.DS_Store
+*.swp
+*.tmp
+
+# Obsidian device-specific state and caches
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Installed plugin code and plugin-private data
+.obsidian/plugins/
+
+# Agent-private configuration and sessions
+.claude/
+.claudian/
+
+# Credentials and environment-secret files
+.env
+.env.*
+*.pem
+*.key
